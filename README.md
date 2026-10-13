@@ -10,8 +10,8 @@
 Since Dec 2024 I've built Unity apps at **Bubble Algérie** (client work, so the source is private):
 - **SafetyVR:** VR safety training for Meta Quest 3, with a quest/goal system, an exercise mode, Arabic RTL / EN / FR localisation, and a steady 72 FPS
 - **SafetyMR:** ported a training app from HoloLens 2 to Quest 3
-- **Arty:** an AR product viewer with a TextMeshPro / DOTween UI and a Go backend
-- **Cactus:** a mobile education app on iOS and Android with Firebase push notifications
+- **Arty:** AR product visualisation app for mobile. I built an Addressables / AssetBundle pipeline so content loads remotely, wrote a custom shader that cut rendering overhead by 40%, built the whole UI in TextMeshPro and DOTween, added OTP email login, and synced data in real time with a Go backend
+- **Cactus:** live mobile education app on iOS and Android. I built **Défi**, real-time head-to-head challenges between players over WebSockets, plus its progression layer with dynamic difficulty. I also handled the App Store and Play Store releases
 
 ### Game jams
 All of my games so far are game-jam entries made with small teams. Each one can be played on itch.io.
