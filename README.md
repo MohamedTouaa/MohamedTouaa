@@ -2,7 +2,7 @@
 
 **Unity developer, XR & games.** Based in Algiers, open to remote Unity / XR roles.
 
-[Portfolio](https://mohamed-shiroyasha.vercel.app) · [itch.io](https://shiroyashadono.itch.io) · [LinkedIn](https://www.linkedin.com/in/mohamed-touaa-690522259/) · ctouaamohamed@gmail.com
+[Portfolio](https://mohamed-shiroyasha.vercel.app) · [itch.io](https://shiroyashadono.itch.io) · ctouaamohamed@gmail.com
 
 ---
 
