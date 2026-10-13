@@ -1,6 +1,6 @@
 <h1>Mohamed Touaa</h1>
 
-**Unity developer, XR & games.** Based in Algiers, open to remote Unity / XR roles.
+**Unity developer, XR & games.** Based in Algiers.
 
 [Portfolio](https://mohamed-shiroyasha.vercel.app) · [itch.io](https://shiroyashadono.itch.io) · ctouaamohamed@gmail.com
 
